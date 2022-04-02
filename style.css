@@ -90,3 +90,7 @@ nav ul li a:hover {
 .images:hover .person {
   left: 45%;
 }
+.hero .logo {
+  width: 150px;
+  height: auto;
+}
